@@ -8,4 +8,4 @@ a = int(input("Please enter one number - >"))
 b = int(input("Please enter another number - >")) 
 
 print("Addition of both the number is - >",add(a,b))
-print("Subtraction of both the number is - >",add(a,b))
+print("Subtraction of both the number is - >",sub(a,b))
